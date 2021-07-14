@@ -4,6 +4,8 @@ HTML,CSS ve JavaScript ile yaptığım listeleme uygulaması.
 
 ## Uygulama Görünüleri
 
+
+
 ![screenshot_20210617_133440](https://user-images.githubusercontent.com/48367134/122381204-56d53700-cf71-11eb-9dca-6f12ac0b2f41.png)
 
 ![screenshot_20210617_133555](https://user-images.githubusercontent.com/48367134/122381215-59379100-cf71-11eb-8a1f-70e2a58fc59c.png)
